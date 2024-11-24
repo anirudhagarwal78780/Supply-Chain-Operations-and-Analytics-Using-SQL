@@ -1,0 +1,6 @@
+Shipment_ID,Order_ID,Shipment_Date,Shipment_Status,Shipping_Cost
+1,2,2024-11-19 07:28:19.007239,In Transit,62
+2,1,2024-11-19 07:28:19.007250,Delivered,37
+3,1,2024-11-20 07:28:19.007255,In Transit,52
+4,2,2024-11-16 07:28:19.007257,Delivered,82
+5,5,2024-11-16 07:28:19.007259,In Transit,30

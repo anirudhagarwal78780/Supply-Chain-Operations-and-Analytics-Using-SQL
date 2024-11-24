@@ -1,0 +1,6 @@
+Supplier_ID,Supplier_Name,Location,Contact_Number,Email
+1,Supplier A,New York,123-456-7890,a@supplier.com
+2,Supplier B,Los Angeles,234-567-8901,b@supplier.com
+3,Supplier C,Chicago,345-678-9012,c@supplier.com
+4,Supplier D,Houston,456-789-0123,d@supplier.com
+5,Supplier E,Phoenix,567-890-1234,e@supplier.com

@@ -1,0 +1,6 @@
+Customer_ID,Customer_Name,Location,Contact_Number,Email
+1,Customer A,New York,321-654-9870,a@customer.com
+2,Customer B,Los Angeles,432-765-0981,b@customer.com
+3,Customer C,Chicago,543-876-1092,c@customer.com
+4,Customer D,Houston,654-987-2103,d@customer.com
+5,Customer E,Phoenix,765-098-3214,e@customer.com

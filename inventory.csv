@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Current_Stock_Level,Reorder_Level,Supplier_ID
+1,Product 1,12,9,1
+2,Product 2,20,15,4
+3,Product 3,85,12,1
+4,Product 4,99,13,1
+5,Product 5,58,7,3
+6,Product 6,10,10,1
+7,Product 7,36,10,3
+8,Product 8,56,16,4
+9,Product 9,100,12,3
+10,Product 10,98,20,3

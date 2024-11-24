@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Supplier_ID,Price,Stock_Quantity
+1,Product 1,Electronics,2,207,72
+2,Product 2,Clothing,3,306,28
+3,Product 3,Furniture,2,264,46
+4,Product 4,Electronics,2,226,92
+5,Product 5,Clothing,3,360,94
+6,Product 6,Furniture,1,307,45
+7,Product 7,Electronics,5,381,26
+8,Product 8,Clothing,2,184,68
+9,Product 9,Furniture,3,415,50
+10,Product 10,Electronics,3,370,92
